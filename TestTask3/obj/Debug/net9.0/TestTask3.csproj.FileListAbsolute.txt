@@ -1,0 +1,14 @@
+C:\Users\Tigran\Desktop\TestTask\TestTask3\bin\Debug\net9.0\TestTask3.exe
+C:\Users\Tigran\Desktop\TestTask\TestTask3\bin\Debug\net9.0\TestTask3.deps.json
+C:\Users\Tigran\Desktop\TestTask\TestTask3\bin\Debug\net9.0\TestTask3.runtimeconfig.json
+C:\Users\Tigran\Desktop\TestTask\TestTask3\bin\Debug\net9.0\TestTask3.dll
+C:\Users\Tigran\Desktop\TestTask\TestTask3\bin\Debug\net9.0\TestTask3.pdb
+C:\Users\Tigran\Desktop\TestTask\TestTask3\obj\Debug\net9.0\TestTask3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tigran\Desktop\TestTask\TestTask3\obj\Debug\net9.0\TestTask3.AssemblyInfoInputs.cache
+C:\Users\Tigran\Desktop\TestTask\TestTask3\obj\Debug\net9.0\TestTask3.AssemblyInfo.cs
+C:\Users\Tigran\Desktop\TestTask\TestTask3\obj\Debug\net9.0\TestTask3.csproj.CoreCompileInputs.cache
+C:\Users\Tigran\Desktop\TestTask\TestTask3\obj\Debug\net9.0\TestTask3.dll
+C:\Users\Tigran\Desktop\TestTask\TestTask3\obj\Debug\net9.0\refint\TestTask3.dll
+C:\Users\Tigran\Desktop\TestTask\TestTask3\obj\Debug\net9.0\TestTask3.pdb
+C:\Users\Tigran\Desktop\TestTask\TestTask3\obj\Debug\net9.0\TestTask3.genruntimeconfig.cache
+C:\Users\Tigran\Desktop\TestTask\TestTask3\obj\Debug\net9.0\ref\TestTask3.dll

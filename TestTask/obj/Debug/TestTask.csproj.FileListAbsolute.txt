@@ -1,0 +1,7 @@
+C:\Users\Tigran\Desktop\TestTask\TestTask\bin\Debug\TestTask.exe.config
+C:\Users\Tigran\Desktop\TestTask\TestTask\bin\Debug\TestTask.exe
+C:\Users\Tigran\Desktop\TestTask\TestTask\bin\Debug\TestTask.pdb
+C:\Users\Tigran\Desktop\TestTask\TestTask\obj\Debug\TestTask.csproj.AssemblyReference.cache
+C:\Users\Tigran\Desktop\TestTask\TestTask\obj\Debug\TestTask.csproj.CoreCompileInputs.cache
+C:\Users\Tigran\Desktop\TestTask\TestTask\obj\Debug\TestTask.exe
+C:\Users\Tigran\Desktop\TestTask\TestTask\obj\Debug\TestTask.pdb
